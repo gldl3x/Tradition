@@ -1,5 +1,6 @@
 package goldil0x.tradition;
 
+import goldil0x.tradition.items.ModItems;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.Mod.Instance;
@@ -26,16 +27,20 @@ public class main {
     @EventHandler
     public void preInit(FMLPreInitializationEvent e) {
         System.out.println("PreInit");
+        /**Pre-Init**/
+        ModItems.init();
         this.proxy.preInit(e);
     }
     @EventHandler
     public void init(FMLInitializationEvent e) {
         System.out.println("Init");
+        /**Init**/
         this.proxy.init(e);
     }
     @EventHandler
     public void postInit(FMLPostInitializationEvent e) {
         System.out.println("PostInit");
+        /**Post-Init**/
         this.proxy.postInit(e);
     }
 }
