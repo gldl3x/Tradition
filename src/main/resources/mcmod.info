@@ -1,14 +1,13 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "traditioncore",
+  "name": "Tradition",
+  "description": "The core mod of the Tradition mod set.",
+  "version": "1.0",
+  "mcversion": "1.10.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Goldil0x"],
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
