@@ -3,6 +3,15 @@
 itemGroup.tab_tradition=Tradition Core
 
 ###Items###
+item.barley.name=Barley
+item.hand_axe.name=Hand-Axe
+item.hay.name=Hay
+item.hide.name=Hide
+item.jute.name=Jute
+item.oats.name=Oats
+item.rice.name=Rice
 item.rock_large.name=Heavy Stone
+item.rye.name=Rye
+item.wood_chips.name=Wood Chips
 
 ###Blocks###
