@@ -4,7 +4,7 @@
   "name": "Tradition",
   "description": "The core mod of the Tradition mod set.",
   "version": "1.0",
-  "mcversion": "1.10.2",
+  "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["Goldil0x"],

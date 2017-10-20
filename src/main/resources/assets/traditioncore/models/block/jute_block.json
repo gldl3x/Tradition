@@ -1,0 +1,6 @@
+{
+  "parent": "block/cute_all",
+  "textures": {
+    "all": "traditioncore:blocks/jute_block"
+  }
+}

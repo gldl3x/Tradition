@@ -1,7 +1,0 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "traditioncore:items/leather_string"
-	}
-
-}
